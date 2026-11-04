@@ -1,0 +1,7 @@
+# secrets
+.env
+bot_memory.pkl
+.venv/
+__pycache__/
+*.pyc
+*.zip
