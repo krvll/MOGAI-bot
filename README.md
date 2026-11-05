@@ -50,6 +50,7 @@ MOGAI — помощник в кармане у каждого рабочего,
 
 ## Материалы для жюри
 •⁠  ⁠Работающий бот: https://t.me/MOG_AI_agent
+
 •⁠  ⁠Гугл драйв: https://drive.google.com/drive/folders/1OK2HhxoxjiiNri3A3x0LPeMw7kD8rGFj?usp=sharing
 
 
